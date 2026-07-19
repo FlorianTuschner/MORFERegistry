@@ -5,4 +5,4 @@ description = "Private registry for MORFE"
 
 [packages]
 1d4622c9-196a-4501-8c0e-eb226f4bd3c4 = { name = "MORFEFerrite", path = "M/MORFEFerrite" }
-5d3630f1-b769-440d-b6a6-faf39c53b66e = { name = "MORFE", path = "M/MORFE" }
+
