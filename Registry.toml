@@ -4,3 +4,4 @@ repo = "git@github.com:FlorianTuschner/MORFERegistry.git"
 description = "Private registry for MORFE"
 
 [packages]
+5d3630f1-b769-440d-b6a6-faf39c53b66e = { name = "MORFE", path = "M/MORFE" }
