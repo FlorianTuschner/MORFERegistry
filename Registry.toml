@@ -1,0 +1,6 @@
+name = "MORFERegistry"
+uuid = "26dcb13d-7dbe-47af-94e6-00b434554957"
+repo = "git@github.com:FlorianTuschner/MORFERegistry.git"
+description = "Private registry for MORFE"
+
+[packages]
