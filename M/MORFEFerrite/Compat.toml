@@ -1,7 +1,0 @@
-[0]
-Arpack = "0.5.3-0.5"
-Ferrite = "1"
-FerriteGmsh = "1"
-LinearMaps = "3"
-StaticArrays = "1"
-julia = "1.10.0-1"
